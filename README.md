@@ -21,10 +21,13 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Log in 
+
+
 <img src='https://i.imgur.com/wtldV25.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Add New Comment
+Log in 
+
 <img src='https://i.imgur.com/UFB8OYj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Add New Comment
 
 # Parstagram - Part I
 
