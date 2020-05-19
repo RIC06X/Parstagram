@@ -58,7 +58,7 @@ class CameraViewController: UIViewController, UIImagePickerControllerDelegate, U
         let image = info[.editedImage] as! UIImage
         
         let size = CGSize(width: 300, height: 300)
-        let scaledimage = image.af.imageScaled(to: size)
+        let scaledimage = image.af.imageAspectScaled(toFill: size)
         
         imageView.image = scaledimage
         dismiss(animated: true, completion: nil)
